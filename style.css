@@ -1,0 +1,76 @@
+body{
+    text-transform: capitalize;
+}
+h1{
+    background-color: lightskyblue;
+
+}
+.p1{
+    background-color: lightblue;
+}
+.p2{
+    background-color: purple;
+}
+.p3{
+    background-color: seagreen;
+}
+.task2{
+    background-color: lightgrey;
+    text-transform: capitalize;
+}
+.task2 p{
+    color: gray;
+}
+.task2 ul {
+    list-style-type: circle;
+}
+.innertext {
+ background-color: rgb(70, 123, 170);
+ color: yellow !important ;
+}
+.task3{
+    padding: 100px 100px;
+}
+.task3 div{
+    background-color: gray;
+}
+.task3 p{
+    overflow-y: scroll;
+    max-width: 500px;
+    min-width: 300px;
+    max-height: 300px;
+    text-align: left;
+}
+#borderimg1{ 
+    border: 10px solid transparent !important;
+    padding: 15px !important;
+    border-image: url(./border.png) 30 stretch !important;
+   
+  }
+  .task3 h1 {
+background-color: gray;
+  }
+  .task3 div{
+    border: 5px solid black;
+    border-style: dashed;
+  }
+  .div1{
+background-color:lightslategrey;
+}
+.div1 p{
+    display: inline-block;
+}
+.task4 h1{
+    background-color: lightcyan;
+    margin: 0%;
+}
+.div2{
+    background-color: lightcyan;
+    
+}
+.task4 p{
+    text-indent: 60px !important;
+}
+.task4 h3{
+    text-indent: 60px !important;
+}
